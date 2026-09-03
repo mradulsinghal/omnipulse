@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "omnipulse": {
+      "command": "python3",
+      "args": [
+        "-m",
+        "agent_reach",
+        "mcp"
+      ],
+      "env": {
+        "PYTHONPATH": "."
+      }
+    }
+  }
+}
