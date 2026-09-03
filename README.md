@@ -308,11 +308,6 @@ Each channel file **actually probes** its candidate backends in order (not just 
 - 🐦 **Twitter/X:** [@mradulsinghal](https://x.com/mradulsinghal)
 
 
-
-<p align="center">
-  <img src="docs/wechat-group-qr.jpg" width="280" alt="WeChat QR">
-</p>
-
 > For bug reports and feature requests, please use [GitHub Issues](https://github.com/mradulsinghal/omnipulse/issues) — easier to track.
 
 ## License
